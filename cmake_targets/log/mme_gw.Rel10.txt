@@ -1,0 +1,1489 @@
+[  0%] Generating CMakeFiles/R10.5/s1ap_decoder.c, CMakeFiles/R10.5/s1ap_encoder.c, CMakeFiles/R10.5/s1ap_xer_print.c, CMakeFiles/R10.5/s1ap_ies_defs.h
+[  0%] Scanning dependencies of target LFDS
+Generating CMakeFiles/R10.5/s1ap_decoder.c, CMakeFiles/R10.5/s1ap_encoder.c, CMakeFiles/R10.5/s1ap_xer_print.c, CMakeFiles/R10.5/s1ap_ies_defs.h
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c.o
+Scanning dependencies of target ITTI
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c:8:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c:34:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/intertask_interface.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:49:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:60:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:67:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:85:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c:44:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c:56:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_queue.c.o
+[93mDidn't find any information element for message: S1ap-PrivateMessageIEs[0m
+[93mDidn't find any information element for message: S1ap-PrivateMessageIEs[0m
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c:51:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c:62:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+Scanning dependencies of target S1AP_EPC
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_delete.c.o
+[  0%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_encoder.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_get_and_put.c.o
+[  0%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/intertask_interface_dump.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c:8:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c:29:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_link.c.o
+[  0%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_decoder.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c:34:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c:45:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_get_and_set.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_delete.c.o
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c:54:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c:66:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:45:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:56:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:63:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:81:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_handlers.c.o
+[  0%] [  0%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/backtrace.c.o
+Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_push_pop.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_handlers.c:36:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[  0%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_query.c.o
+[  0%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/memory_pools.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_get_and_set.c.o
+/home/einstein/openairinterface5g/common/utils/itti/memory_pools.c:57:0: warning: "CHARS_TO_UINT32" redefined [enabled by default]
+ #define CHARS_TO_UINT32(c1, c2, c3, c4) (((c1) << 24) | ((c2) << 16) | ((c3) << 8) | (c4))
+ ^
+In file included from /home/einstein/openairinterface5g/openair2/COMMON/platform_types.h:46:0,
+                 from /home/einstein/openairinterface5g/common/utils/itti/assertions.h:34,
+                 from /home/einstein/openairinterface5g/common/utils/itti/memory_pools.c:34:
+/home/einstein/openairinterface5g/common/utils/itti/itti_types.h:44:0: note: this is the location of the previous definition
+ #define CHARS_TO_UINT32(c1, c2, c3, c4) (((c4) << 24) | ((c3) << 16) | ((c2) << 8) | (c1))
+ ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_handlers.c: In function ‘s1ap_mme_handle_ue_context_release_request’:
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_handlers.c:677:5: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 3 has type ‘S1ap_MME_UE_S1AP_ID_t’ [-Wformat=]
+     S1AP_DEBUG("UE_CONTEXT_RELEASE_REQUEST ignored cause could not get context with mme_ue_s1ap_id "S1AP_UE_ID_FMT" %u(10)\n",
+     ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_handlers.c:677:5: warning: format ‘%u’ expects argument of type ‘unsigned int’, but argument 4 has type ‘S1ap_MME_UE_S1AP_ID_t’ [-Wformat=]
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_handlers.c:715:7: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 4 has type ‘S1ap_ENB_UE_S1AP_ID_t’ [-Wformat=]
+       S1AP_DEBUG("UE_CONTEXT_RELEASE_REQUEST ignored, cause mismatch eNB_ue_s1ap_id: ctxt "S1AP_UE_ID_FMT" != request "S1AP_UE_ID_FMT" ",
+       ^
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c:51:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c:62:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  2%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/signals.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_query.c.o
+[  2%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_delete.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_pop_push.c.o
+[  2%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/timer.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_abstraction_test_helpers.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_free.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_malloc.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c:49:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c: In function ‘s1ap_mme_handle_initial_ue_message’:
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c:109:30: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     ue_ref->mme_ue_s1ap_id = (uint32_t)ue_ref;
+                              ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c: In function ‘s1ap_generate_downlink_nas_transport’:
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c:298:5: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 4 has type ‘S1ap_MME_UE_S1AP_ID_t’ [-Wformat=]
+     S1AP_DEBUG("Send S1ap_ProcedureCode_id_downlinkNASTransport ue_id = "S1AP_UE_ID_FMT" mme_ue_s1ap_id = "S1AP_UE_ID_FMT" eNB_UE_S1AP_ID = "S1AP_UE_ID_FMT"\n",
+     ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_nas_procedures.c:298:5: warning: format ‘%X’ expects argument of type ‘unsigned int’, but argument 5 has type ‘S1ap_ENB_UE_S1AP_ID_t’ [-Wformat=]
+Linking C static library libITTI.a
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_free.c.o
+[  2%] Built target ITTI
+[  2%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme.c.o
+[  2%] Building C object CMakeFiles/LFDS.dir/home/einstein/openairinterface5g/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_malloc.c.o
+Linking C static library libLFDS.a
+[  2%] Built target LFDS
+Scanning dependencies of target HASHTABLE
+[  2%] Building C object CMakeFiles/HASHTABLE.dir/home/einstein/openairinterface5g/common/utils/collection/hashtable/hashtable.c.o
+[  2%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_itti_messaging.c.o
+/home/einstein/openairinterface5g/common/utils/collection/hashtable/hashtable.c: In function ‘hashtable_dump_content’:
+/home/einstein/openairinterface5g/common/utils/collection/hashtable/hashtable.c:180:19: warning: unused variable ‘num_elements’ [-Wunused-variable]
+     unsigned int  num_elements = 0;
+                   ^
+[  2%] Building C object CMakeFiles/HASHTABLE.dir/home/einstein/openairinterface5g/common/utils/collection/hashtable/obj_hashtable.c.o
+[  2%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_retransmission.c.o
+Linking C static library libHASHTABLE.a
+[  2%] Built target HASHTABLE
+Scanning dependencies of target MSC
+Scanning dependencies of target SECU_OSA
+[  2%] [  2%] Building C object CMakeFiles/SECU_OSA.dir/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_key_deriver.c.o
+Building C object CMakeFiles/MSC.dir/home/einstein/openairinterface5g/common/utils/msc/msc.c.o
+[  2%] Building C object CMakeFiles/SECU_OSA.dir/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_rijndael.c.o
+[  2%] Building C object CMakeFiles/SECU_OSA.dir/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_snow3g.c.o
+[  2%] Building C object CMakeFiles/S1AP_EPC.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_ta.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_mme_ta.c:35:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/common/utils/msc/msc.c: In function ‘msc_task’:
+/home/einstein/openairinterface5g/common/utils/msc/msc.c:78:23: warning: variable ‘instance’ set but not used [-Wunused-but-set-variable]
+   instance_t          instance  = 0;
+                       ^
+/home/einstein/openairinterface5g/common/utils/msc/msc.c:77:23: warning: variable ‘msg_name’ set but not used [-Wunused-but-set-variable]
+   const char         *msg_name = NULL;
+                       ^
+[  4%] Building C object CMakeFiles/SECU_OSA.dir/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_stream_eea.c.o
+/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_stream_eea.c: In function ‘stream_encrypt_eea1’:
+/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_stream_eea.c:81:13: warning: variable ‘byte_length’ set but not used [-Wunused-but-set-variable]
+   uint32_t  byte_length;
+             ^
+[  4%] Linking C static library libS1AP_EPC.a
+Building C object CMakeFiles/SECU_OSA.dir/home/einstein/openairinterface5g/openair2/UTIL/OSA/osa_stream_eia.c.o
+[  4%] Built target S1AP_EPC
+Linking C static library libMSC.a
+Scanning dependencies of target SECU_CN
+[  4%] Scanning dependencies of target S1AP_LIB
+Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/kdf.c.o
+[  4%] Built target MSC
+Scanning dependencies of target CN_UTILS
+[  4%] Building C object CMakeFiles/CN_UTILS.dir/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.c.o
+[  4%] [  4%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_decoder.c.o
+Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/rijndael.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/conversions.c:33:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[  4%] Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/snow3g.c.o
+[  4%] Building C object CMakeFiles/CN_UTILS.dir/home/einstein/openairinterface5g/openair-cn/UTILS/enum_string.c.o
+Linking C static library libSECU_OSA.a
+[  4%] Built target SECU_OSA
+[  4%] Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/key_nas_deriver.c.o
+[  4%] Building C object CMakeFiles/CN_UTILS.dir/home/einstein/openairinterface5g/openair-cn/UTILS/log.c.o
+[  4%] Building C object CMakeFiles/CN_UTILS.dir/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c.o
+[  4%] Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c:39:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c: In function ‘nas_stream_encrypt_eea1’:
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c:52:13: warning: variable ‘byte_length’ set but not used [-Wunused-but-set-variable]
+   uint32_t  byte_length;
+             ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c: In function ‘config_parse_file’:
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:232:5: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+     if(  (config_setting_lookup_int( setting_mme, MME_CONFIG_STRING_MAXENB, &alongint) )) {
+     ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:236:5: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+     if(  (config_setting_lookup_int( setting_mme, MME_CONFIG_STRING_MAXUE, &alongint) )) {
+     ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:240:5: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+     if(  (config_setting_lookup_int( setting_mme, MME_CONFIG_STRING_RELATIVE_CAPACITY, &alongint) )) {
+     ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:244:5: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+     if(  (config_setting_lookup_int( setting_mme, MME_CONFIG_STRING_STATISTIC_TIMER, &alongint) )) {
+     ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:277:7: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+       if(  (config_setting_lookup_int( setting, MME_CONFIG_STRING_INTERTASK_INTERFACE_QUEUE_SIZE, &alongint) )) {
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:305:7: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+       if(  (config_setting_lookup_int( setting, MME_CONFIG_STRING_SCTP_INSTREAMS, &alongint) )) {
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:309:7: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+       if(  (config_setting_lookup_int( setting, MME_CONFIG_STRING_SCTP_OUTSTREAMS, &alongint) )) {
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:318:7: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+       if(  (config_setting_lookup_int( setting, MME_CONFIG_STRING_S1AP_OUTCOME_TIMER, &alongint) )) {
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:322:7: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+       if(  (config_setting_lookup_int( setting, MME_CONFIG_STRING_S1AP_PORT, &alongint) )) {
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+Scanning dependencies of target GTPV1U
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:489:21: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+             astring = config_setting_get_string_elem(subsetting, i);
+                     ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:514:21: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+             astring = config_setting_get_string_elem(subsetting, i);
+                     ^
+/home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:546:14: warning: passing argument 3 of ‘config_setting_lookup_int’ from incompatible pointer type [enabled by default]
+              && config_setting_lookup_int( subsetting, SGW_CONFIG_STRING_SGW_PORT_FOR_S1U_S12_S4_UP, &alongint)
+              ^
+In file included from /home/einstein/openairinterface5g/openair-cn/UTILS/mme_config.c:40:0:
+/usr/include/libconfig.h:152:26: note: expected ‘int *’ but argument is of type ‘long int *’
+ extern LIBCONFIG_API int config_setting_lookup_int(
+                          ^
+[  4%] Building C object CMakeFiles/GTPV1U.dir/home/einstein/openairinterface5g/openair2/RRC/LITE/rrc_eNB_GTPV1U.c.o
+[  4%] Building C object CMakeFiles/GTPV1U.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1uTunnelEndPoint.c.o
+[  4%] Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia1.c.o
+[  4%] Building C object CMakeFiles/GTPV1U.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1uTrxn.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia1.c:38:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[  4%] Building C object CMakeFiles/GTPV1U.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1uMsg.c.o
+[  4%] Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea2.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1uMsg.c:47:0:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u.h:57:2: warning: #warning "TO BE REFINED" [-Wcpp]
+ #warning "TO BE REFINED"
+  ^
+[  4%] Building C object CMakeFiles/CN_UTILS.dir/home/einstein/openairinterface5g/openair-cn/UTILS/mcc_mnc_itu.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea2.c:39:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[  4%] Building C object CMakeFiles/SECU_CN.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c.o
+Linking C static library libCN_UTILS.a
+[  4%] Building C object CMakeFiles/GTPV1U.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c.o
+[  4%] Built target CN_UTILS
+Scanning dependencies of target GTPV2C
+[  4%] Building C object CMakeFiles/GTPV2C.dir/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2cTrxn.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c:52:0:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u.h:57:2: warning: #warning "TO BE REFINED" [-Wcpp]
+ #warning "TO BE REFINED"
+  ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c: In function ‘nwGtpv1uDestroyTunnelEndPoint’:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c:413:5: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 3 has type ‘NwGtpv1uStackSessionHandleT’ [-Wformat=]
+     GTPU_DEBUG(  "Destroying Tunnel end-point '%x'",
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c:426:5: warning: format ‘%x’ expects argument of type ‘unsigned int’, but argument 3 has type ‘NwGtpv1uStackSessionHandleT’ [-Wformat=]
+     GTPU_WARNING("Non-existent Tunnel end-point handle '%x'",
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c: In function ‘nwGtpv1uInitialize’:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/nw-gtpv1u/src/NwGtpv1u.c:692:31: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     thiz->seq   = (uint16_t) ((uint32_t)thiz) ; // FIXME interesting casts... don't know what this is good for...
+                               ^
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c:46:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c: In function ‘nas_stream_encrypt_eia2’:
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c:65:21: warning: variable ‘ret’ set but not used [-Wunused-but-set-variable]
+   int               ret;
+                     ^
+[  4%] Building C object CMakeFiles/GTPV2C.dir/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2cTunnel.c.o
+Linking C static library libSECU_CN.a
+[  4%] Built target SECU_CN
+[  4%] Building C object CMakeFiles/GTPV2C.dir/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2cMsg.c.o
+Scanning dependencies of target SCTP_SERVER
+[  4%] Building C object CMakeFiles/SCTP_SERVER.dir/home/einstein/openairinterface5g/openair-cn/SCTP/sctp_common.c.o
+[  4%] Building C object CMakeFiles/SCTP_SERVER.dir/home/einstein/openairinterface5g/openair-cn/SCTP/sctp_itti_messaging.c.o
+[  4%] [  4%] Building C object CMakeFiles/SCTP_SERVER.dir/home/einstein/openairinterface5g/openair-cn/SCTP/sctp_primitives_server.c.o
+Building C object CMakeFiles/GTPV1U.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_teid_pool.c.o
+[  4%] Building C object CMakeFiles/GTPV2C.dir/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2cMsgIeParseInfo.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_teid_pool.c:38:0:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u.h:57:2: warning: #warning "TO BE REFINED" [-Wcpp]
+ #warning "TO BE REFINED"
+  ^
+Linking C static library libGTPV1U.a
+[  4%] Built target GTPV1U
+[  4%] /home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2cMsgIeParseInfo.c:355:1: warning: ‘nwGtpv2cMsgGroupedIeCount’ defined but not used [-Wunused-function]
+ nwGtpv2cMsgGroupedIeCount(NwGtpv2cMsgIeInfoT *pMsgIeInfo)
+ ^
+Building C object CMakeFiles/GTPV2C.dir/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2cMsgParser.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SCTP/sctp_primitives_server.c:59:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[  7%] Building C object CMakeFiles/GTPV2C.dir/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c.o
+Scanning dependencies of target UDP_SERVER
+[  7%] Building C object CMakeFiles/UDP_SERVER.dir/home/einstein/openairinterface5g/openair-cn/UDP/udp_primitives_server.c.o
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c: In function ‘nwGtpv2cInitialize’:
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1060:27: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     thiz->id            = (uint32_t) thiz;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1061:28: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     thiz->seqNum        = ((uint32_t) thiz) & 0x0000FFFF;
+                            ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1068:25: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     thiz->hTmrMinHeap = (NwHandleT) nwGtpv2cTmrMinHeapNew(10000);
+                         ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c: In function ‘nwGtpv2cProcessTimeout’:
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1459:5: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapRemove’ makes pointer from integer without a cast [enabled by default]
+     rc = nwGtpv2cTmrMinHeapRemove(thiz->hTmrMinHeap, timeoutInfo->timerMinHeapIndex);
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:148:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapRemove(NwGtpv2cTmrMinHeapT* thiz, int minHeapIndex)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1477:3: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapPeek’ makes pointer from integer without a cast [enabled by default]
+   timeoutInfo = nwGtpv2cTmrMinHeapPeek(thiz->hTmrMinHeap);
+   ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:203:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapPeek(NwGtpv2cTmrMinHeapT* thiz)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1483:5: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapRemove’ makes pointer from integer without a cast [enabled by default]
+     rc = nwGtpv2cTmrMinHeapRemove(thiz->hTmrMinHeap, timeoutInfo->timerMinHeapIndex);
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:148:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapRemove(NwGtpv2cTmrMinHeapT* thiz, int minHeapIndex)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1489:5: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapPeek’ makes pointer from integer without a cast [enabled by default]
+     timeoutInfo = nwGtpv2cTmrMinHeapPeek(thiz->hTmrMinHeap);
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:203:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapPeek(NwGtpv2cTmrMinHeapT* thiz)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1497:5: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapPeek’ makes pointer from integer without a cast [enabled by default]
+     timeoutInfo = nwGtpv2cTmrMinHeapPeek(thiz->hTmrMinHeap);
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:203:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapPeek(NwGtpv2cTmrMinHeapT* thiz)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c: In function ‘nwGtpv2cStartTimer’:
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1557:5: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapInsert’ makes pointer from integer without a cast [enabled by default]
+     rc = nwGtpv2cTmrMinHeapInsert(thiz->hTmrMinHeap, timeoutInfo);
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:127:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapInsert(NwGtpv2cTmrMinHeapT* thiz, NwGtpv2cTimeoutInfoT* pTimerEvent)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1533:25: warning: unused variable ‘collision’ [-Wunused-variable]
+   NwGtpv2cTimeoutInfoT *collision;
+                         ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c: In function ‘nwGtpv2cStopTimer’:
+Linking C static library libSCTP_SERVER.a
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1710:3: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapRemove’ makes pointer from integer without a cast [enabled by default]
+   rc = nwGtpv2cTmrMinHeapRemove(thiz->hTmrMinHeap, timeoutInfo->timerMinHeapIndex);
+   ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:148:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapRemove(NwGtpv2cTmrMinHeapT* thiz, int minHeapIndex)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:1724:5: warning: passing argument 1 of ‘nwGtpv2cTmrMinHeapPeek’ makes pointer from integer without a cast [enabled by default]
+     timeoutInfo = nwGtpv2cTmrMinHeapPeek(thiz->hTmrMinHeap);
+     ^
+/home/einstein/openairinterface5g/openair-cn/GTPV2-C/nwgtpv2c-0.11/src/NwGtpv2c.c:203:1: note: expected ‘struct NwGtpv2cTmrMinHeapT *’ but argument is of type ‘NwHandleT’
+ nwGtpv2cTmrMinHeapPeek(NwGtpv2cTmrMinHeapT* thiz)
+ ^
+[  7%] Built target SCTP_SERVER
+Scanning dependencies of target S6A
+[  7%] In file included from /home/einstein/openairinterface5g/openair-cn/UDP/udp_primitives_server.c:55:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/UDP/udp_primitives_server.c: In function ‘udp_print_hex_octets’:
+/home/einstein/openairinterface5g/openair-cn/UDP/udp_primitives_server.c:103:3: warning: format ‘%d’ expects argument of type ‘int’, but argument 7 has type ‘__suseconds_t’ [-Wformat=]
+   snprintf(timeofday, 64, "%02d:%02d:%02d.%06d", h,m,s,tv.tv_usec);
+   ^
+/home/einstein/openairinterface5g/openair-cn/UDP/udp_primitives_server.c:103:3: warning: format ‘%d’ expects argument of type ‘int’, but argument 7 has type ‘__suseconds_t’ [-Wformat=]
+Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_auth_info.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S6A/s6a_auth_info.c:36:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+Linking C static library libUDP_SERVER.a
+[  7%] Built target UDP_SERVER
+[  7%] Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_dict.c.o
+Scanning dependencies of target SGW
+[  7%] Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_error.c.o
+[  7%] Building C object CMakeFiles/SGW.dir/home/einstein/openairinterface5g/openair-cn/SGW-LITE/spgw_config.c.o
+[  7%] Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_peer.c.o
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/spgw_config.c: In function ‘spgw_config_init’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/spgw_config.c:446:19: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+           astring = config_setting_get_string_elem(sub2setting,i);
+                   ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/spgw_config.c:541:19: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+           astring = config_setting_get_string_elem(sub2setting,i);
+                   ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/spgw_config.c:244:21: warning: unused variable ‘sgw_drop_downlink_s1u_traffic’ [-Wunused-variable]
+   char             *sgw_drop_downlink_s1u_traffic        = NULL;
+                     ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/spgw_config.c:243:21: warning: unused variable ‘sgw_drop_uplink_s1u_traffic’ [-Wunused-variable]
+   char             *sgw_drop_uplink_s1u_traffic          = NULL;
+                     ^
+[  7%] Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_subscription_data.c.o
+Linking C static library libGTPV2C.a
+[  7%] Built target GTPV2C
+[  7%] Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_task.c.o
+[  9%] [  9%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_encoder.c.o
+Building C object CMakeFiles/SGW.dir/home/einstein/openairinterface5g/openair-cn/SGW-LITE/s11_causes.c.o
+[  9%] Building C object CMakeFiles/SGW.dir/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_task.c.o
+[  9%] Building C object CMakeFiles/S6A.dir/home/einstein/openairinterface5g/openair-cn/S6A/s6a_up_loc.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S6A/s6a_up_loc.c:36:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_task.c: In function ‘sgw_lite_init’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_task.c:205:3: warning: passing argument 3 of ‘hashtable_create’ from incompatible pointer type [enabled by default]
+   sgw_app.s11_bearer_context_information_hashtable = hashtable_create (8192, NULL, sgw_lite_cm_free_s_plus_p_gw_eps_bearer_context_information);
+   ^
+In file included from /home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite.h:39:0,
+                 from /home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_task.c:48:
+/home/einstein/openairinterface5g/common/utils/collection/hashtable/hashtable.h:69:17: note: expected ‘void (*)(void *)’ but argument is of type ‘void (*)(struct s_plus_p_gw_eps_bearer_context_information_t *)’
+ hash_table_t   *hashtable_create (const hash_size_t   size, hash_size_t (*hashfunc)(const hash_key_t ), void (*freefunc)(void*));
+                 ^
+[  9%] Building C object CMakeFiles/SGW.dir/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:45:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+Linking C static library libS6A.a
+[  9%] Built target S6A
+[  9%] Building C object CMakeFiles/SGW.dir/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_context_manager.c.o
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c: In function ‘sgw_lite_handle_gtpv1uCreateTunnelResp’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:394:16: warning: variable ‘address_allocation_via_dhcpv4’ set but not used [-Wunused-but-set-variable]
+   uint8_t      address_allocation_via_dhcpv4         = FALSE;
+                ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:391:16: warning: unused variable ‘out_pco’ [-Wunused-variable]
+   pco_flat_t   out_pco                   ;
+                ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:376:16: warning: unused variable ‘length_out_pi_or_ci’ [-Wunused-variable]
+   uint8_t      length_out_pi_or_ci         = 0;
+                ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:363:54: warning: unused variable ‘sgi_create_endpoint_req_p’ [-Wunused-variable]
+   SGICreateEndpointReq                              *sgi_create_endpoint_req_p = NULL;
+                                                      ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c: In function ‘sgw_lite_handle_sgi_endpoint_updated’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:868:2: warning: #warning "TODO define constant for default eps_bearer id" [-Wcpp]
+ #warning "TODO define constant for default eps_bearer id"
+  ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:803:54: warning: unused variable ‘iptable_uplink_remove_gtpu’ [-Wunused-variable]
+   static uint8_t                                     iptable_uplink_remove_gtpu = FALSE;
+                                                      ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c: In function ‘sgw_lite_handle_modify_bearer_request’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:974:54: warning: unused variable ‘gtpv1u_update_tunnel_req_p’ [-Wunused-variable]
+   Gtpv1uUpdateTunnelReq                             *gtpv1u_update_tunnel_req_p = NULL;
+                                                      ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c: In function ‘sgw_lite_handle_release_access_bearers_request’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:1214:2: warning: #warning "TODO Here the release (sgw_lite_handle_release_access_bearers_request)" [-Wcpp]
+ #warning "TODO Here the release (sgw_lite_handle_release_access_bearers_request)"
+  ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c: In function ‘sgw_lite_handle_create_session_request’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:232:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c: In function ‘sgw_lite_handle_gtpv1uCreateTunnelResp’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_handlers.c:685:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_context_manager.c: In function ‘sgw_lite_cm_create_bearer_context_information_in_collection’:
+/home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_context_manager.c:304:3: warning: passing argument 4 of ‘obj_hashtable_create’ from incompatible pointer type [enabled by default]
+   new_bearer_context_information->pgw_eps_bearer_context_information.apns = obj_hashtable_create(32, NULL, NULL, pgw_lite_cm_free_apn);
+   ^
+In file included from /home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_context_manager.h:42:0,
+                 from /home/einstein/openairinterface5g/openair-cn/SGW-LITE/sgw_lite_context_manager.c:49:
+/home/einstein/openairinterface5g/common/utils/collection/hashtable/obj_hashtable.h:55:21: note: expected ‘void (*)(void *)’ but argument is of type ‘void (*)(struct pgw_apn_t *)’
+ obj_hash_table_t   *obj_hashtable_create  (hash_size_t   size, hash_size_t (*hashfunc)(const void*, int ), void (*freekeyfunc)(void*), void (*freedatafunc)(void*));
+                     ^
+[  9%] Building C object CMakeFiles/SGW.dir/home/einstein/openairinterface5g/openair-cn/SGW-LITE/pgw_lite_paa.c.o
+Scanning dependencies of target MME_APP
+Linking C static library libSGW.a
+[  9%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_capabilities.c.o
+[  9%] Built target SGW
+[  9%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c:44:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c: In function ‘mme_remove_ue_context’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c:295:2: warning: #warning "TODO mme_ue_context_free_content" [-Wcpp]
+ #warning "TODO mme_ue_context_free_content"
+  ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c:298:3: warning: ‘return’ with a value, in function returning void [enabled by default]
+   return 0;
+   ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c:284:24: warning: variable ‘collision_p’ set but not used [-Wunused-but-set-variable]
+   struct ue_context_s *collision_p = NULL;
+                        ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c: In function ‘mme_app_handle_s1ap_ue_context_release_req’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_context.c:513:5: warning: implicit declaration of function ‘mme_app_send_s11_release_access_bearers_req’ [-Wimplicit-function-declaration]
+     mme_app_send_s11_release_access_bearers_req(ue_context_p);
+     ^
+[  9%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/s1ap_xer_print.c.o
+[  9%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_main.c.o
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_main.c: In function ‘mme_app_thread’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_main.c:92:9: warning: implicit declaration of function ‘mme_app_handle_release_access_bearers_resp’ [-Wimplicit-function-declaration]
+         mme_app_handle_release_access_bearers_resp(&received_message_p->ittiMsg.sgwReleaseAccessBearersResponse);
+         ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_main.c:162:9: warning: implicit declaration of function ‘mme_app_handle_s1ap_ue_context_release_complete’ [-Wimplicit-function-declaration]
+         mme_app_handle_s1ap_ue_context_release_complete(&received_message_p->ittiMsg.s1ap_ue_context_release_complete);
+         ^
+[  9%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c.o
+Scanning dependencies of target LIB_NAS_MME
+[ 12%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_authentication.c.o
+[ 12%] /home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c: In function ‘mme_app_send_s11_release_access_bearers_req’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:64:31: warning: unused variable ‘context_identifier’ [-Wunused-variable]
+   context_identifier_t        context_identifier;
+                               ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:61:31: warning: unused variable ‘i’ [-Wunused-variable]
+   uint8_t                     i                 = 0;
+                               ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c: In function ‘mme_app_send_s11_create_session_req’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:215:59: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+   session_request_p->sender_fteid_for_cp.teid           = (uint32_t)ue_context_pP;
+                                                           ^
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.c.o
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c: In function ‘mme_app_handle_conn_est_cnf’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:421:2: warning: #warning "Check ue_context_p ambr" [-Wcpp]
+ #warning "Check ue_context_p ambr"
+  ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c: In function ‘mme_app_handle_create_sess_resp’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:619:2: warning: #warning "may force QCI here to 9" [-Wcpp]
+ #warning "may force QCI here to 9"
+  ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:742:2: warning: #warning "QOS hardcoded here" [-Wcpp]
+ #warning "QOS hardcoded here"
+  ^
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c: In function ‘mme_app_send_s11_release_access_bearers_req’:
+/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_bearer.c:95:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.c:32:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MSClassmark2.c.o
+[ 12%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_network.c.o
+[ 12%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_location.c.o
+[ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellIdListforMDT.c.o
+[ 12%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/mme_app_statistics.c.o
+[ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ServedGUMMEIs.c.o
+[ 12%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_parser.c.o
+[ 12%] [ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAIListforWarning.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_proc.c.o
+[ 12%] [ 12%] Building C object CMakeFiles/MME_APP.dir/home/einstein/openairinterface5g/openair-cn/MME_APP/s6a_2_nas_cause.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/as_message.c.o
+[ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TargetBSS-ToSourceBSS-TransparentContainer.c.o
+[ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EmergencyAreaIDList.c.o
+[ 12%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c.o
+[ 12%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/network_api.c.o
+[ 12%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEContextReleaseComplete.c.o
+Linking C static library libMME_APP.a
+[ 12%] Built target MME_APP
+[ 14%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/API/MME/mme_api.c.o
+[ 14%] In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:58:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘_nas_message_decrypt’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1019:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1022:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea1’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea1(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:89:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea1(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1053:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1056:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea1’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea1(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:89:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea1(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CSG-Id.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘_nas_message_encrypt’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1181:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1184:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea1’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea1(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:89:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea1(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1212:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1215:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea2’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea2(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:93:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea2(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘_nas_message_get_mac’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1347:30: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+     stream_cipher.message    = buffer;
+                              ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1393:30: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+     stream_cipher.message    = buffer;
+                              ^
+[ 14%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-COUNTvalue.c.o
+[ 14%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSwitchedULList.c.o
+[ 14%] [ 14%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachComplete.c.o
+[ 14%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABReleaseIndication.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c: In function ‘encode_attach_accept’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c:217:2: warning: #warning "LG TEST override t3412value" [-Wcpp]
+ #warning "LG TEST override t3412value"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c:291:2: warning: #warning "LG TEST override t3402value" [-Wcpp]
+ #warning "LG TEST override t3402value"
+  ^
+[ 14%] [ 14%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachReject.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MeasurementThresholdA2.c.o
+[ 14%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UERadioCapability.c.o
+[ 14%] [ 14%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBConfigurationUpdateAcknowledge.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachRequest.c.o
+[ 14%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSetupItemHOReq.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Time-UE-StayedInCell.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationFailure.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CauseRadioNetwork.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UplinkNASTransport.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationReject.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-OverloadStop.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationRequest.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationResponse.c.o
+[ 17%] [ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UE-HistoryInformation.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/CsServiceNotification.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAI.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-WarningType.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/DetachAccept.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEConfigurationUpdate.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000OneXMEID.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/DetachRequest.c.o
+[ 17%] [ 17%] [ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/DownlinkNasTransport.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TargetRNC-ToSourceRNC-TransparentContainer.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/EmmInformation.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000OneXMSI.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/emm_msg.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SupportedTAs-Item.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/EmmStatus.c.o
+[ 17%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/ExtendedServiceRequest.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RAB-ID.c.o
+[ 17%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PrivacyIndicator.c.o
+[ 19%] In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/emm_msg.c:55:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/GutiReallocationCommand.c.o
+[ 19%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/GutiReallocationComplete.c.o
+[ 19%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LAI.c.o
+[ 19%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/IdentityRequest.c.o
+[ 19%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellType.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Global-ENB-ID.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEStatusTransfer.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSwitchedDLList.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/IdentityResponse.c.o
+[ 21%] [ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/BIT_STRING.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CSG-IdList-Item.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/SecurityModeCommand.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/SecurityModeComplete.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LastVisitedGERANCellInformation.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EmergencyAreaID-Cancelled-Item.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/SecurityModeReject.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CI.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CompletedCellinTAI.c.o
+[ 21%] [ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/ServiceReject.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TypeOfError.c.o
+[ 21%] [ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-WarningMessageContents.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/ServiceRequest.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateAccept.c.o
+[ 21%] [ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateComplete.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-GERAN-Cell-ID.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateReject.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateRequest.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-NASNonDeliveryIndication.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/constr_SEQUENCE_OF.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PathSwitchRequestAcknowledge.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EmergencyAreaID-Broadcast-Item.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/UplinkNasTransport.c.o
+[ 21%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RepetitionPeriod.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextAccept.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextReject.c.o
+[ 21%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextRequest.c.o
+[ 24%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ReportIntervalMDT.c.o
+[ 24%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TransportLayerAddress.c.o
+[ 24%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverCancelAcknowledge.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextAccept.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RNC-ID.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABItem.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextReject.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextRequest.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceAllocationReject.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000HORequiredIndication.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceAllocationRequest.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAI-Cancelled.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverRequest.c.o
+[ 26%] [ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAC.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceModificationReject.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEConfigurationUpdateAcknowledge.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Pre-emptionCapability.c.o
+[ 26%] [ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-GWContextReleaseIndication.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceModificationRequest.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/DeactivateEpsBearerContextAccept.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/DeactivateEpsBearerContextRequest.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/EsmInformationRequest.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/EsmInformationResponse.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-BroadcastCancelledAreaList.c.o
+[ 26%] [ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000OneXSRVCCInfo.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/esm_msg.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenTAs-Item.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/EsmStatus.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextAccept.c.o
+[ 26%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/NULL.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextReject.c.o
+[ 26%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextRequest.c.o
+[ 26%] In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/esm_msg.c:54:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Source-ToTarget-TransparentContainer.c.o
+[ 29%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnConnectivityReject.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SRVCCHOIndication.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SONInformationRequest.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnConnectivityRequest.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnDisconnectReject.c.o
+[ 31%] [ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ReceiveStatusofULPDCPSDUs.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenLAs.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000HOStatus.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnDisconnectRequest.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1AP-PDU.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AccessPointName.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-WarningAreaList.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MDT-Activation.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AdditionalUpdateResult.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TrafficLoadReductionIndication.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AdditionalUpdateType.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellAccessMode.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ApnAggregateMaximumBitRate.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationFailureParameter.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationParameterAutn.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationParameterRand.c.o
+[ 31%] [ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABFailedToSetupItemHOReqAck.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UE-associatedLogicalS1-ConnectionItem.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Bearers-SubjectToStatusTransfer-List.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationResponseParameter.c.o
+[ 31%] [ 31%] [ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000OneXPilot.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-OverloadStart.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LPPa-PDU.c.o
+[ 31%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ExtendedRNC-ID.c.o
+[ 31%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/CipheringKeySequenceNumber.c.o
+[ 34%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-BroadcastCompletedAreaList.c.o
+[ 34%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/Cli.c.o
+[ 34%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-AreaScopeOfMDT.c.o
+[ 34%] [ 34%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-StratumLevel.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellID-Broadcast.c.o
+[ 34%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/CsfbResponse.c.o
+[ 34%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/DaylightSavingTime.c.o
+[ 34%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/DetachType.c.o
+[ 34%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-QCI.c.o
+[ 34%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/constr_TYPE.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/DrxParameter.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/per_encoder.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-WriteReplaceWarningRequest.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMERelaySupportIndicator.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EmergencyNumberList.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EmmCause.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsAttachResult.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABModifyListBearerModRes.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-NumberofBroadcastRequest.c.o
+[ 36%] [ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsAttachType.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LocationReportingControl.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-L3-Information.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LastVisitedEUTRANCellInformation.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CriticalityDiagnostics-IE-List.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsBearerContextStatus.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsBearerIdentity.c.o
+[ 36%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsMobileIdentity.c.o
+[ 36%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LoggedMDT.c.o
+[ 36%] [ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DL-Forwarding.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TargetID.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsNetworkFeatureSupport.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenLACs.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CompletedCellinEAI.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsQualityOfService.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsUpdateResult.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsUpdateType.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RAC.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EsmCause.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SecurityKey.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RIMRoutingAddress.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EsmInformationTransferFlag.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EsmMessageContainer.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/GprsTimer.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEContextModificationFailure.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEPagingID.c.o
+[ 39%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/GutiType.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ProtocolIE-ID.c.o
+[ 39%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TargetRNC-ID.c.o
+[ 41%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/IdentityType2.c.o
+[ 41%] [ 41%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBX2GTPTLAs.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MDT-Configuration.c.o
+[ 41%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ImeisvRequest.c.o
+[ 41%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/KsiAndSequenceNumber.c.o
+[ 41%] [ 41%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LcsClientIdentity.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-InitialContextSetupFailure.c.o
+[ 41%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellID-Cancelled.c.o
+[ 41%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABSetupItemCtxtSURes.c.o
+[ 41%] [ 41%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LcsIndicator.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-NAS-PDU.c.o
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSwitchedULItem.c.o
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-GTP-TEID.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LinkedEpsBearerIdentity.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LlcServiceAccessPointIdentifier.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LocationAreaIdentification.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MessageType.c.o
+[ 43%] [ 43%] [ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-BitRate.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MobileIdentity.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABLevelQoSParameters.c.o
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-InitialContextSetupRequest.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MobileStationClassmark2.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MobileStationClassmark3.c.o
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ServedGUMMEIsItem.c.o
+[ 43%] [ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MME-Group-ID.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ManagementBasedMDTAllowed.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkCapability.c.o
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABReleaseItemBearerRelComp.c.o
+[ 43%] [ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBX2ExtTLA.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/asn_SET_OF.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasKeySetIdentifier.c.o
+[ 43%] [ 43%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasMessageContainer.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SourceeNB-ToTargeteNB-TransparentContainer.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c: In function ‘encode_ms_network_feature_support’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c:59:7: warning: unused variable ‘encode_result’ [-Wunused-variable]
+   int encode_result;
+       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c:57:12: warning: unused variable ‘lenPtr’ [-Wunused-variable]
+   uint8_t *lenPtr;
+            ^
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PeriodicReportingMDT.c.o
+[ 43%] [ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/ANY.c.o
+[ 43%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-BPLMNs.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasRequestType.c.o
+[ 46%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasSecurityAlgorithms.c.o
+[ 46%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ThresholdEventA2.c.o
+[ 46%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NetworkName.c.o
+[ 46%] [ 46%] [ 46%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UnsuccessfulOutcome.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/Nonce.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PacketFlowIdentifier.c.o
+[ 48%] [ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EUTRANRoundTripDelayEstimationInfo.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RelativeMMECapacity.c.o
+[ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CSFallbackIndicator.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PagingIdentity.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PdnAddress.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PdnType.c.o
+[ 48%] [ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PlmnList.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverType.c.o
+[ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBDirectInformationTransfer.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ProcedureTransactionIdentity.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ProtocolConfigurationOptions.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ProtocolDiscriminator.c.o
+[ 48%] [ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RRC-Container.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PTmsiSignature.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/QualityOfService.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/RadioPriority.c.o
+[ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverPreparationFailure.c.o
+[ 48%] [ 48%] [ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PathSwitchRequest.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/SecurityHeaderType.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/ber_tlv_length.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ServiceType.c.o
+[ 48%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ShortMac.c.o
+[ 48%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PLMNidentity.c.o
+[ 48%] [ 51%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CriticalityDiagnostics-IE-Item.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/SsCode.c.o
+[ 51%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TABasedMDT.c.o
+[ 51%] [ 51%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/SupportedCodecList.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ResetAcknowledge.c.o
+[ 51%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TimeZoneAndTime.c.o
+[ 51%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TimeZone.c.o
+[ 51%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PagingDRX.c.o
+[ 51%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LoggingDuration.c.o
+[ 51%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEContextModificationRequest.c.o
+[ 51%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TmsiStatus.c.o
+[ 51%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrackingAreaIdentity.c.o
+[ 51%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PrivateMessage.c.o
+[ 53%] [ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrackingAreaIdentityList.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TraceDepth.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrafficFlowAggregateDescription.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSetupItemCtxtSUReq.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrafficFlowTemplate.c.o
+[ 53%] [ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EmergencyAreaID.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TransactionIdentifier.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-WriteReplaceWarningResponse.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c: In function ‘decode_ue_network_capability’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c:84:2: warning: #warning "Force GPRS present if UMTS present" [-Wcpp]
+ #warning "Force GPRS present if UMTS present"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c: In function ‘encode_ue_network_capability’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c:134:2: warning: #warning "Force gea to 0x60" [-Wcpp]
+ #warning "Force gea to 0x60"
+  ^
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeRadioCapabilityInformationUpdateNeeded.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CancelledCellinTAI-Item.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeSecurityCapability.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABModifyRequest.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-S-TMSI.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SubscriberProfileIDforRFP.c.o
+[ 53%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RelayNode-Indicator.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/VoiceDomainPreferenceAndUeUsageSetting.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/device.c.o
+[ 53%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/memory.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/nas_log.c.o
+[ 56%] [ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/constr_CHOICE.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/NativeEnumerated.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/nas_timer.c.o
+[ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAListforMDT.c.o
+[ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/per_decoder.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/socket.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/stty.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/TLVEncoder.c.o
+[ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABReleaseResponse.c.o
+[ 56%] [ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEConfigurationTransfer.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/TLVDecoder.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/OctetString.c.o
+[ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EventType.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c.o
+[ 56%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENB-UE-S1AP-ID.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Authentication.c.o
+[ 56%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Detach.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/xer_decoder.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:79:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c: In function ‘emm_proc_attach_request’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:332:2: warning: #warning "TRICK TO SET TAC, BUT LOOK AT SPEC" [-Wcpp]
+ #warning "TRICK TO SET TAC, BUT LOOK AT SPEC"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c: In function ‘_emm_attach_t3450_handler’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:560:7: warning: variable ‘rc’ set but not used [-Wunused-but-set-variable]
+   int rc;
+       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c: In function ‘_emm_attach_accept’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:1327:2: warning: #warning "TEST LG FORCE GUTI IE IN ATTACH ACCEPT" [-Wcpp]
+ #warning "TEST LG FORCE GUTI IE IN ATTACH ACCEPT"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c: In function ‘_emm_attach_update’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:1580:2: warning: #warning "LG: We should assign the GUTI accordingly to the visited plmn id" [-Wcpp]
+ #warning "LG: We should assign the GUTI accordingly to the visited plmn id"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:1586:42: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+       ctx->guti->m_tmsi                = (uint32_t) ctx;
+                                          ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Authentication.c:72:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 58%] /home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c: In function ‘_emm_attach_accept’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Attach.c:1302:7: warning: ‘rc’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+   int rc;
+       ^
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-S1SetupFailure.c.o
+[ 58%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/EmmCommon.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-NumberOfBroadcasts.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABSetupItemBearerSURes.c.o
+[ 58%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/emm_data_ctx.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CompletedCellinEAI-Item.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/ber_decoder.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverCancel.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-GBR-QosInformation.c.o
+[ 58%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/emm_main.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/INTEGER.c.o
+[ 58%] [ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSetupItemBearerSUReq.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/EmmStatusHdl.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/emm_data_ctx.c: In function ‘emm_data_context_dump’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/emm_data_ctx.c:138:27: warning: ‘remaining_size’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+            size +=snprintf(&key_string[0], remaining_size, "None");
+                           ^
+[ 58%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Identification.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UplinkS1cdma2000tunneling.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MDTMode.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverNotify.c.o
+[ 58%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/IdleMode.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Identification.c: In function ‘_identification_t3470_handler’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/Identification.c:367:7: warning: variable ‘rc’ set but not used [-Wunused-but-set-variable]
+   int rc;
+       ^
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PathSwitchRequestFailure.c.o
+[ 58%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MME-UE-S1AP-ID.c.o
+[ 58%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/LowerLayer.c.o
+[ 60%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SecurityModeControl.c.o
+[ 60%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSetupListCtxtSUReq.c.o
+[ 60%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LoggingInterval.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SecurityModeControl.c: In function ‘_security_t3460_handler’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SecurityModeControl.c:567:7: warning: variable ‘rc’ set but not used [-Wunused-but-set-variable]
+   int rc;
+       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SecurityModeControl.c: In function ‘_security_select_algorithms’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SecurityModeControl.c:773:7: warning: unused variable ‘rc’ [-Wunused-variable]
+   int rc                = RETURNerror;
+       ^
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Paging.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/ServiceRequestHdl.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/OBJECT_IDENTIFIER.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DownlinkNonUEAssociatedLPPaTransport.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-InterfacesToTrace.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/TrackingAreaUpdate.c.o
+[ 63%] [ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ErrorIndication.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_as.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RequestType.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CompletedCellinTAI-Item.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ReportAmountMDT.c.o
+[ 63%] [ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Presence.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_as.c:67:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmCommonProcedureInitiated.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Correlation-ID.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UE-S1AP-ID-pair.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c: In function ‘_emm_cn_pdn_connectivity_res’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c:245:2: warning: #warning "Some work to do here about qos" [-Wcpp]
+ #warning "Some work to do here about qos"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c:307:11: warning: passing argument 4 of ‘esm_proc_pdn_connectivity_request’ discards ‘const’ qualifier from pointer target type [enabled by default]
+           &esm_cause);
+           ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_proc.h:134:5: note: expected ‘struct OctetString *’ but argument is of type ‘const struct OctetString *’
+ int esm_proc_pdn_connectivity_request(emm_data_context_t *ctx, int pti,
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c:307:11: warning: passing argument 6 of ‘esm_proc_pdn_connectivity_request’ discards ‘const’ qualifier from pointer target type [enabled by default]
+           &esm_cause);
+           ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_proc.h:134:5: note: expected ‘struct OctetString *’ but argument is of type ‘const struct OctetString *’
+ int esm_proc_pdn_connectivity_request(emm_data_context_t *ctx, int pti,
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_cn.c:187:32: warning: unused variable ‘esm_proc_data_p’ [-Wunused-variable]
+   esm_proc_data_t             *esm_proc_data_p       = NULL;
+                                ^
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredAttachNeeded.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredAttemptingToAttach.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DeactivateTrace.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/OCTET_STRING.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Threshold-RSRQ.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EncryptionAlgorithms.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregistered.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredInitiated.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredLimitedService.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredNoCellAvailable.c.o
+[ 63%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredNoImsi.c.o
+[ 63%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Data-Forwarding-Not-Possible.c.o
+[ 65%] [ 65%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TimeToWait.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredNormalService.c.o
+[ 65%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmDeregisteredPlmnSearch.c.o
+[ 65%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_esm.c.o
+[ 65%] [ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_fsm.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmNull.c.o
+[ 68%] [ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CancelledCellinEAI-Item.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_recv.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_fsm.c: In function ‘emm_fsm_initialize’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_fsm.c:162:7: warning: unused variable ‘ueid’ [-Wunused-variable]
+   int ueid;
+       ^
+[ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABFailedToSetupListHOReqAck.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_reg.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_recv.c: In function ‘emm_recv_attach_request’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_recv.c:269:2: warning: #warning " TODO gea to be review" [-Wcpp]
+ #warning " TODO gea to be review"
+  ^
+[ 68%] [ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TraceStart.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredAttemptingToUpdate.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegistered.c.o
+[ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SourceRNC-ToTargetRNC-TransparentContainer.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredImsiDetachInitiated.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredInitiated.c.o
+[ 68%] [ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredLimitedService.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EUTRAN-CGI.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredNoCellAvailable.c.o
+[ 68%] [ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredNormalService.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAI-Broadcast-Item.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredPlmnSearch.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmRegisteredUpdateNeeded.c.o
+[ 68%] [ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_sap.c.o
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/emm_send.c.o
+[ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000RATType.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmServiceRequestInitiated.c.o
+[ 68%] [ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEAggregateMaximumBitrate.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Pre-emptionVulnerability.c.o
+[ 68%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Criticality.c.o
+[ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/EMM/SAP/EmmTrackingAreaUpdatingInitiated.c.o
+[ 68%] [ 68%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/DedicatedEpsBearerContextActivation.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-M-TMSI.c.o
+[ 70%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/DefaultEpsBearerContextActivation.c.o
+[ 70%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ReportingTriggerMDT.c.o
+[ 70%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAI-Cancelled-Item.c.o
+[ 70%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/EpsBearerContextDeactivation.c.o
+[ 70%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr.c.o
+[ 70%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBX2TLAs.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr.c: In function ‘esm_ebr_assign’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr.c:162:22: warning: unused variable ‘ueid’ [-Wunused-variable]
+   unsigned int       ueid    = 0;
+                      ^
+[ 70%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBStatusTransfer.c.o
+[ 70%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DownlinkNASTransport.c.o
+[ 70%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr_context.c.o
+[ 70%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ip.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Target-ToSource-TransparentContainer.c.o
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_main.c.o
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_pt.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_main.c: In function ‘esm_main_initialize’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_main.c:85:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr_context.c: In function ‘esm_ebr_context_create’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr_context.c:109:23: warning: unused variable ‘ueid’ [-Wunused-variable]
+   unsigned int        ueid    = 0;
+                       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr_context.c: In function ‘esm_ebr_context_release’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/esm_ebr_context.c:258:16: warning: unused variable ‘ueid’ [-Wunused-variable]
+   unsigned int ueid = 0;
+                ^
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/EsmStatusHdl.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UESecurityCapabilities.c.o
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/PdnConnectivity.c.o
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/PdnDisconnect.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RIMTransfer.c.o
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_recv.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ResetType.c.o
+[ 73%] /home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/PdnConnectivity.c: In function ‘esm_proc_pdn_connectivity_request’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/PdnConnectivity.c:186:2: warning: #warning "Uncomment code about _esm_data.conf.features & (MME_API_IPV4 | MME_API_IPV6) later" [-Wcpp]
+ #warning "Uncomment code about _esm_data.conf.features & (MME_API_IPV4 | MME_API_IPV6) later"
+  ^
+Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_send.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_itti_messaging.h:56:0,
+                 from /home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_recv.c:57:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_recv.c: In function ‘esm_recv_pdn_connectivity_request’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_recv.c:271:7: warning: unused variable ‘is_emergency’ [-Wunused-variable]
+   int is_emergency = (request_type == ESM_PDN_REQUEST_EMERGENCY);
+       ^
+[ 73%] /home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_send.c: In function ‘esm_send_activate_default_eps_bearer_context_request’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_send.c:298:2: warning: #warning "TEST LG FORCE APN-AMBR" [-Wcpp]
+ #warning "TEST LG FORCE APN-AMBR"
+  ^
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABReleaseCommand.c.o
+[ 73%] Building C object CMakeFiles/LIB_NAS_MME.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_sap.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverFailure.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABInformationList.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/ESM/SAP/esm_sap.c:730:12: warning: ‘_esm_sap_send’ defined but not used [-Wunused-function]
+ static int _esm_sap_send(int msg_type, int is_standalone,
+            ^
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SONInformationReply.c.o
+[ 73%] [ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/asn_SEQUENCE_OF.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/PrintableString.c.o
+Linking C static library libLIB_NAS_MME.a
+[ 73%] [ 73%] Built target LIB_NAS_MME
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverRequired.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SourceeNB-ID.c.o
+[ 73%] [ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-X2TNLConfigurationInfo.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SuccessfulOutcome.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ServedGroupIDs.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABSetupListCtxtSURes.c.o
+[ 73%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ConcurrentWarningMessageIndicator.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEContextModificationResponse.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABList.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SerialNumber.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SRVCCOperationPossible.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABSetupResponse.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MSClassmark3.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cell-Size.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBConfigurationUpdate.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAIList.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSetupListHOReq.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-OverloadResponse.c.o
+[ 75%] [ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEname.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Bearers-SubjectToStatusTransfer-Item.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/constraints.c.o
+[ 75%] [ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellID-Broadcast-Item.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-S1SetupRequest.c.o
+[ 75%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LastVisitedUTRANCellInformation.c.o
+[ 78%] [ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SONConfigurationTransfer.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CancelledCellinEAI.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MessageIdentifier.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAI-Broadcast.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverCommand.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CancelledCellinTAI.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-AllocationAndRetentionPriority.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PagingPriority.c.o
+[ 78%] [ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MME-Code.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CauseMisc.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PS-ServiceNotAvailable.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenTAs.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABReleaseListBearerRelComp.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000PDU.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-S1SetupResponse.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UE-S1AP-IDs.c.o
+[ 78%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEDirectInformationTransfer.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellID-Cancelled-Item.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-GUMMEI.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ImmediateMDT.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CauseTransport.c.o
+[ 80%] [ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EmergencyAreaID-Broadcast.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/per_opentype.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DataCodingScheme.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PrivateIE-ID.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CSG-IdList.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CauseProtocol.c.o
+[ 80%] [ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RIMInformation.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeModifiedItemBearerModReq.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Inter-SystemInformationTransferType.c.o
+[ 80%] [ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ExtendedRepetitionPeriod.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LocationReportingFailureIndication.c.o
+[ 80%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Routing-ID.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABAdmittedItem.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CSGMembershipStatus.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/NativeInteger.c.o
+[ 82%] [ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/asn_codecs_prim.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSetupListBearerSUReq.c.o
+/home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/R10.5/NativeInteger.c: In function ‘NativeInteger_decode_aper’:
+/home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/R10.5/NativeInteger.c:282:6: warning: variable ‘dynamic’ set but not used [-Wunused-but-set-variable]
+  int dynamic = 0;
+      ^
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-UTRAN-Trace-ID.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ServedMMECs.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/der_encoder.c.o
+[ 82%] [ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Threshold-RSRP.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ProtocolExtensionID.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Reset.c.o
+[ 82%] [ 82%] [ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellBasedMDT.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UplinkUEAssociatedLPPaTransport.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBConfigurationTransfer.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HFN.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-IntegrityProtectionAlgorithms.c.o
+[ 82%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/xer_support.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LAC.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEContextReleaseRequest.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TraceFailureIndication.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DownlinkUEAssociatedLPPaTransport.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellIdentity.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/constr_SET_OF.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ResetAll.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-InitialUEMessage.c.o
+/home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/R10.5/constr_SET_OF.c: In function ‘SET_OF_decode_aper’:
+/home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/R10.5/constr_SET_OF.c:1007:18: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+     (int)nelems, (int)ct ? ct->effective_bits : -1);
+                  ^
+[ 85%] [ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UECapabilityInfoIndication.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeSwitchedDLItem.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-KillRequest.c.o
+[ 85%] [ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SecurityContext.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-KillResponse.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-NASSecurityParametersfromE-UTRAN.c.o
+[ 85%] [ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ServedPLMNs.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABSetupRequest.c.o
+[ 85%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenTACs.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-IE.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABModifyItemBearerModRes.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-OldBSS-ToNewBSS-Information.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABSetupListBearerSURes.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UE-associatedLogicalS1-ConnectionListRes.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TBCD-STRING.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SupportedTAs.c.o
+[ 87%] [ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-InitialContextSetupResponse.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CellTrafficTrace.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ReportArea.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CriticalityDiagnostics.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENB-StatusTransfer-TransparentContainer.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/per_support.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-WarningSecurityInfo.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-OverloadAction.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SynchronizationStatus.c.o
+[ 87%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABDataForwardingList.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ECGIList.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBname.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-RRC-Establishment-Cause.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABToBeModifiedListBearerModReq.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/ber_tlv_tag.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MeasurementsToActivate.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LastVisitedCell-Item.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ProcedureCode.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/constr_SEQUENCE.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABDataForwardingItem.c.o
+[ 90%] [ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEIdentityIndexValue.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-MMEConfigurationUpdateFailure.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-IMSI.c.o
+[ 90%] [ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-LocationReport.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UE-associatedLogicalS1-ConnectionListResAck.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBX2ExtTLAs.c.o
+[ 90%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABInformationListItem.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Direct-Forwarding-Path-Availability.c.o
+[ 92%] [ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cause.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-InitiatingMessage.c.o
+[ 92%] [ 92%] [ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABModifyResponse.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/xer_encoder.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000SectorID.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TimeSynchronizationInfo.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenLAs-Item.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-DownlinkS1cdma2000tunneling.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-NASSecurityParameterstoE-UTRAN.c.o
+[ 92%] [ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-E-RABAdmittedList.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TraceActivation.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SourceBSS-ToTargetBSS-TransparentContainer.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UEContextReleaseCommand.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PriorityLevel.c.o
+[ 92%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-PDCP-SN.c.o
+[ 95%] [ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-IE-Extensions.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EPLMNs.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverRestrictionList.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-SONInformation.c.o
+[ 95%] [ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CNDomain.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TargeteNB-ID.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TAIItem.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ForbiddenInterRATs.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENB-ID.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-Cdma2000OneXRAND.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-GUMMEIList.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-HandoverRequestAcknowledge.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TargeteNB-ToSourceeNB-TransparentContainer.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CGI.c.o
+[ 95%] [ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-CauseNas.c.o
+Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-EmergencyAreaID-Cancelled.c.o
+[ 95%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/converter-sample.c.o
+[ 97%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/BOOLEAN.c.o
+[ 97%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-UplinkNonUEAssociatedLPPaTransport.c.o
+[ 97%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-TriggeringMessage.c.o
+[ 97%] Building C object CMakeFiles/S1AP_LIB.dir/CMakeFiles/R10.5/S1ap-ENBConfigurationUpdateFailure.c.o
+[ 97%] Building C object CMakeFiles/S1AP_LIB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_common.c.o
+Linking C static library libS1AP_LIB.a
+[ 97%] Built target S1AP_LIB
+[ 97%] Generating CMakeFiles/messages.xml
+[ 97%] Generating CMakeFiles/messages_xml.h
+Scanning dependencies of target mme_gw
+[ 97%] [100%] [100%] [100%] Building C object CMakeFiles/mme_gw.dir/home/einstein/openairinterface5g/openair-cn/OAI_EPC/oai_epc_log.c.o
+Building C object CMakeFiles/mme_gw.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c.o
+Building C object CMakeFiles/mme_gw.dir/home/einstein/openairinterface5g/openair-cn/OAI_EPC/oai_epc.c.o
+Building C object CMakeFiles/mme_gw.dir/home/einstein/openairinterface5g/openair-cn/SCTP/sctp_primitives_server.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_sgw_defs.h:34:0,
+                 from /home/einstein/openairinterface5g/openair-cn/OAI_EPC/oai_epc.c:46:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u.h:57:2: warning: #warning "TO BE REFINED" [-Wcpp]
+ #warning "TO BE REFINED"
+  ^
+[100%] Building C object CMakeFiles/mme_gw.dir/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_mme_task.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:47:0:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u.h:57:2: warning: #warning "TO BE REFINED" [-Wcpp]
+ #warning "TO BE REFINED"
+  ^
+In file included from /home/einstein/openairinterface5g/openair-cn/SCTP/sctp_primitives_server.c:59:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c: In function ‘gtpu_print_hex_octets’:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:106:3: warning: format ‘%d’ expects argument of type ‘int’, but argument 7 has type ‘__suseconds_t’ [-Wformat=]
+   snprintf(timeofday, 64, "%02d:%02d:%02d.%06d", h,m,s,tv.tv_usec);
+   ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:106:3: warning: format ‘%d’ expects argument of type ‘int’, but argument 7 has type ‘__suseconds_t’ [-Wformat=]
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c: In function ‘gtpv1u_init’:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:476:27: warning: unused variable ‘tmr’ [-Wunused-variable]
+   NwGtpv1uTimerMgrEntityT tmr;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:475:27: warning: unused variable ‘log’ [-Wunused-variable]
+   NwGtpv1uLogMgrEntityT   log;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:474:27: warning: unused variable ‘udp’ [-Wunused-variable]
+   NwGtpv1uUdpEntityT      udp;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:473:27: warning: unused variable ‘ulp’ [-Wunused-variable]
+   NwGtpv1uUlpEntityT      ulp;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:472:27: warning: unused variable ‘rc’ [-Wunused-variable]
+   NwGtpv1uRcT             rc  = 0;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c: At top level:
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:254:12: warning: ‘gtpv1u_create_s1u_tunnel’ defined but not used [-Wunused-function]
+ static int gtpv1u_create_s1u_tunnel(Gtpv1uCreateTunnelReq *create_tunnel_reqP)
+            ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:317:12: warning: ‘gtpv1u_delete_s1u_tunnel’ defined but not used [-Wunused-function]
+ static int gtpv1u_delete_s1u_tunnel(Teid_t context_teidP, Teid_t S1U_teidP)
+            ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:339:12: warning: ‘gtpv1u_update_s1u_tunnel’ defined but not used [-Wunused-function]
+ static int gtpv1u_update_s1u_tunnel(Gtpv1uUpdateTunnelReq *reqP)
+            ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:372:20: warning: ‘gtpv1u_start_timer_wrapper’ defined but not used [-Wunused-function]
+ static NwGtpv1uRcT gtpv1u_start_timer_wrapper(
+                    ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/gtpv1u_task.c:405:20: warning: ‘gtpv1u_stop_timer_wrapper’ defined but not used [-Wunused-function]
+ static NwGtpv1uRcT gtpv1u_stop_timer_wrapper(
+                    ^
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_mme_task.c: In function ‘nas_intertask_interface’:
+/home/einstein/openairinterface5g/openair-cn/NAS/MME/nas_mme_task.c:60:1: warning: label ‘next_message’ defined but not used [-Wunused-label]
+ next_message:
+ ^
+Linking C executable mme_gw
+[100%] Built target mme_gw

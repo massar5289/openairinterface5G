@@ -1,0 +1,1 @@
+cmd_/home/einstein/openairinterface5g/cmake_targets/lte_build_oai/build/CMakeFiles/ue_ip/built-in.o :=  rm -f /home/einstein/openairinterface5g/cmake_targets/lte_build_oai/build/CMakeFiles/ue_ip/built-in.o; ar rcsD /home/einstein/openairinterface5g/cmake_targets/lte_build_oai/build/CMakeFiles/ue_ip/built-in.o

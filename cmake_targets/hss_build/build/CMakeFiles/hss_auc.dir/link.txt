@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhss_auc.a  CMakeFiles/hss_auc.dir/home/einstein/openairinterface5g/openair-cn/OPENAIRHSS/auc/fx.c.o CMakeFiles/hss_auc.dir/home/einstein/openairinterface5g/openair-cn/OPENAIRHSS/auc/kdf.c.o CMakeFiles/hss_auc.dir/home/einstein/openairinterface5g/openair-cn/OPENAIRHSS/auc/random.c.o CMakeFiles/hss_auc.dir/home/einstein/openairinterface5g/openair-cn/OPENAIRHSS/auc/rijndael.c.o CMakeFiles/hss_auc.dir/home/einstein/openairinterface5g/openair-cn/OPENAIRHSS/auc/sequence_number.c.o
+/usr/bin/ranlib libhss_auc.a

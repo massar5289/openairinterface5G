@@ -1,0 +1,97 @@
+[  2%] Built target LFDS
+Scanning dependencies of target ITTI
+[  2%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/intertask_interface.c.o
+[ 28%] Built target S1AP_LIB
+[ 29%] Built target HASHTABLE
+[ 30%] Built target SECU_OSA
+Scanning dependencies of target UTIL
+[ 30%] Building C object CMakeFiles/UTIL.dir/home/einstein/openairinterface5g/openair2/UTIL/LISTS/list.c.o
+Scanning dependencies of target S1AP_ENB
+[ 30%] Building C object CMakeFiles/UTIL.dir/home/einstein/openairinterface5g/openair2/UTIL/LISTS/list2.c.o
+Scanning dependencies of target RRC_LIB
+[ 30%] [ 30%] Building C object CMakeFiles/UTIL.dir/home/einstein/openairinterface5g/openair2/UTIL/LOG/log.c.o
+Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB.c.o
+[ 30%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/intertask_interface_dump.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB.c:62:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 30%] Building C object CMakeFiles/RRC_LIB.dir/home/einstein/openairinterface5g/openair2/RRC/LITE/MESSAGES/asn1_msg.c.o
+[ 31%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_context_management_procedures.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_context_management_procedures.c:35:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 31%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/signals.c.o
+[ 31%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_decoder.c.o
+[ 31%] Building C object CMakeFiles/ITTI.dir/home/einstein/openairinterface5g/common/utils/itti/timer.c.o
+[ 31%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_encoder.c.o
+[ 32%] Building C object CMakeFiles/UTIL.dir/home/einstein/openairinterface5g/openair2/UTIL/MEM/mem_block.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_encoder.c:41:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+Linking C static library libITTI.a
+[ 32%] Built target ITTI
+[ 32%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_handlers.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_handlers.c:58:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 32%] /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_handlers.c: In function ‘s1ap_eNB_handle_ue_context_release_command’:
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_handlers.c:858:2: warning: #warning "TODO mapping mme_ue_s1ap_id  enb_ue_s1ap_id?" [-Wcpp]
+ #warning "TODO mapping mme_ue_s1ap_id  enb_ue_s1ap_id?"
+  ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_handlers.c:813:28: warning: variable ‘mme_ue_s1ap_id’ set but not used [-Wunused-but-set-variable]
+   S1ap_MME_UE_S1AP_ID_t    mme_ue_s1ap_id;
+                            ^
+Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_itti_messaging.c.o
+[ 32%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_management_procedures.c.o
+[ 32%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nas_procedures.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nas_procedures.c:35:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+In file included from /home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_management_procedures.c:37:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+Linking C static library libRRC_LIB.a
+Linking C static library libUTIL.a
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nas_procedures.c: In function ‘s1ap_eNB_handle_nas_first_req’:
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nas_procedures.c:194:2: warning: #warning "TODO get cell id from RRC" [-Wcpp]
+ #warning "TODO get cell id from RRC"
+  ^
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nas_procedures.c: In function ‘s1ap_eNB_nas_uplink’:
+/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nas_procedures.c:403:2: warning: #warning "TODO get cell id from RRC" [-Wcpp]
+ #warning "TODO get cell id from RRC"
+  ^
+[ 34%] Built target UTIL
+[ 34%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_nnsf.c.o
+[ 34%] Built target SECU_CN
+[ 76%] Built target RRC_LIB
+[ 76%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_overload.c.o
+Scanning dependencies of target SCHED_LIB
+[ 76%] Building C object CMakeFiles/SCHED_LIB.dir/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_ue.c.o
+[ 76%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_trace.c.o
+/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_ue.c: In function ‘phy_procedures_UE_TX’:
+/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_ue.c:667:11: warning: variable ‘ack_status’ set but not used [-Wunused-but-set-variable]
+   uint8_t ack_status=0;
+           ^
+/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_ue.c: In function ‘phy_procedures_UE_RX’:
+/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_ue.c:2414:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+[ 76%] Building C object CMakeFiles/S1AP_ENB.dir/home/einstein/openairinterface5g/openair-cn/S1AP/s1ap_eNB_ue_context.c.o
+Linking C static library libS1AP_ENB.a
+[ 76%] Built target S1AP_ENB
+[ 76%] Building C object CMakeFiles/SCHED_LIB.dir/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_common.c.o
+Scanning dependencies of target PHY
+make[2]: *** [CMakeFiles/PHY.dir/all] Interrupt
+make[3]: *** [CMakeFiles/SCHED_LIB.dir/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_ue.c.o] Interrupt
+make[3]: *** [CMakeFiles/SCHED_LIB.dir/home/einstein/openairinterface5g/openair1/SCHED/phy_procedures_lte_common.c.o] Interrupt
+make[2]: *** [CMakeFiles/SCHED_LIB.dir/all] Interrupt
+make[3]: *** [CMakeFiles/L2.dir/depend] Interrupt
+make[2]: *** [CMakeFiles/L2.dir/all] Interrupt
+make[1]: *** [CMakeFiles/lte-softmodem.dir/rule] Interrupt
+make: *** [lte-softmodem] Interrupt

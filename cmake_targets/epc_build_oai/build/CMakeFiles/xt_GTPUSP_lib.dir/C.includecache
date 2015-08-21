@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/libxt_GTPUSP.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+getopt.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+linux/netfilter.h
+-
+xt_GTPUSP.h
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/xt_GTPUSP.h
+iptables.h
+-
+xtables.h
+-
+
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/xt_GTPUSP.h
+

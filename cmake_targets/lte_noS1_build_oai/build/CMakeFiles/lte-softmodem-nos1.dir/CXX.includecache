@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/einstein/openairinterface5g/targets/ARCH/COMMON/common_lib.h
+stdint.h
+-
+sys/types.h
+-
+
+/home/einstein/openairinterface5g/targets/ARCH/USRP/USERSPACE/LIB/usrp_lib.cpp
+string.h
+-
+pthread.h
+-
+unistd.h
+-
+stdio.h
+-
+uhd/utils/thread_priority.hpp
+-
+uhd/usrp/multi_usrp.hpp
+-
+boost/lexical_cast.hpp
+-
+boost/algorithm/string.hpp
+-
+iostream
+-
+complex
+-
+fstream
+-
+cmath
+-
+common_lib.h
+/home/einstein/openairinterface5g/targets/ARCH/USRP/USERSPACE/LIB/common_lib.h
+

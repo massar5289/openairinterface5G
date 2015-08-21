@@ -1,0 +1,1 @@
+cmd_/home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/xt_GTPUSP/built-in.o :=  rm -f /home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/xt_GTPUSP/built-in.o; ar rcsD /home/einstein/openairinterface5g/cmake_targets/epc_build_oai/build/CMakeFiles/xt_GTPUSP/built-in.o

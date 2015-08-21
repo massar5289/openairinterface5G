@@ -1,0 +1,4 @@
+Scanning dependencies of target xt_GTPUSP_lib
+[100%] Building C object CMakeFiles/xt_GTPUSP_lib.dir/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/libxt_GTPUSP.c.o
+Linking C shared library libxt_GTPUSP_lib.so
+[100%] Built target xt_GTPUSP_lib

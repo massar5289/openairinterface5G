@@ -1,0 +1,13 @@
+Scanning dependencies of target xt_GTPUSP
+SOURCES
+make[4]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/xt_GTPUSP.c:203:1: warning: ‘_gtpusp_nf_inet_hook_2_string’ defined but not used [-Wunused-function]
+ _gtpusp_nf_inet_hook_2_string(int nf_inet_hookP)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/xt_GTPUSP.c:233:1: warning: ‘_gtpusp_print_hex_octets’ defined but not used [-Wunused-function]
+ _gtpusp_print_hex_octets(unsigned char* data_pP, unsigned short sizeP)
+ ^
+/home/einstein/openairinterface5g/openair-cn/GTPV1-U/GTPU_SP/xt_GTPUSP.c:181:1: warning: ‘_gtpusp_icmph_type_2_string’ defined but not used [-Wunused-function]
+ _gtpusp_icmph_type_2_string(uint8_t typeP)
+ ^
+Built target xt_GTPUSP

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libMSC.a  CMakeFiles/MSC.dir/home/einstein/openairinterface5g/common/utils/msc/msc.c.o
+/usr/bin/ranlib libMSC.a

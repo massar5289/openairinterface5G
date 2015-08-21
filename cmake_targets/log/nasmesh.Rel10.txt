@@ -1,0 +1,145 @@
+Scanning dependencies of target nasmesh
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/netlink.c
+make[4]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c: In function ‘nas_open’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c:135:20: warning: unused variable ‘priv’ [-Wunused-variable]
+   struct nas_priv *priv=netdev_priv(dev);
+                    ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c: In function ‘init_module’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c:489:7: warning: passing argument 1 of ‘nas_TOOL_imei2iid’ from incompatible pointer type [enabled by default]
+       nas_TOOL_imei2iid(nas_IMEI, nasdev[inst]->dev_addr);// IMEI to device address (for stateless autoconfiguration address)
+       ^
+In file included from /home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c:48:0:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/proto_extern.h:299:6: note: expected ‘unsigned char *’ but argument is of type ‘unsigned int *’
+ void nas_TOOL_imei2iid(unsigned char *imei, unsigned char *iid);
+      ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c:490:7: warning: passing argument 1 of ‘nas_TOOL_imei2iid’ from incompatible pointer type [enabled by default]
+       nas_TOOL_imei2iid(nas_IMEI, (uint8_t *)priv->cx[0].iid6);
+       ^
+In file included from /home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/device.c:48:0:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/proto_extern.h:299:6: note: expected ‘unsigned char *’ but argument is of type ‘unsigned int *’
+ void nas_TOOL_imei2iid(unsigned char *imei, unsigned char *iid);
+      ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c: In function ‘nas_COMMON_receive’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:77:19: warning: unused variable ‘check’ [-Wunused-variable]
+   uint16_t *cksum,check;
+                   ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:77:13: warning: unused variable ‘cksum’ [-Wunused-variable]
+   uint16_t *cksum,check;
+             ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:76:18: warning: unused variable ‘th’ [-Wunused-variable]
+   struct tcphdr *th;
+                  ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:75:18: warning: unused variable ‘uh’ [-Wunused-variable]
+   struct udphdr *uh;
+                  ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:73:45: warning: unused variable ‘sn’ [-Wunused-variable]
+   unsigned char *addr,*daddr,*saddr,*ifaddr,sn;
+                                             ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:73:38: warning: unused variable ‘ifaddr’ [-Wunused-variable]
+   unsigned char *addr,*daddr,*saddr,*ifaddr,sn;
+                                      ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:73:31: warning: unused variable ‘saddr’ [-Wunused-variable]
+   unsigned char *addr,*daddr,*saddr,*ifaddr,sn;
+                               ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:73:24: warning: unused variable ‘daddr’ [-Wunused-variable]
+   unsigned char *addr,*daddr,*saddr,*ifaddr,sn;
+                        ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:73:18: warning: unused variable ‘addr’ [-Wunused-variable]
+   unsigned char *addr,*daddr,*saddr,*ifaddr,sn;
+                  ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:69:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:67:19: warning: unused variable ‘osaddr’ [-Wunused-variable]
+   uint32_t odaddr,osaddr;
+                   ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:67:12: warning: unused variable ‘odaddr’ [-Wunused-variable]
+   uint32_t odaddr,osaddr;
+            ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c: In function ‘nas_COMMON_QOS_send’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:351:17: warning: unused variable ‘j’ [-Wunused-variable]
+   unsigned char j;
+                 ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c: In function ‘nas_COMMON_search_class_for_rb’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/common.c:606:21: warning: unused variable ‘rb’ [-Wunused-variable]
+   struct rb_entity *rb;
+                     ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/ioctl.c: In function ‘nas_set_msg_imei_reply’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/ioctl.c:751:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/ioctl.c: In function ‘nas_ioCTL_cx_list_request’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/ioctl.c:117:1: warning: the frame size of 3088 bytes is larger than 1024 bytes [-Wframe-larger-than=]
+ }
+ ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/ioctl.c: In function ‘nas_ioCTL_class_list_request’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/ioctl.c:460:1: warning: the frame size of 1816 bytes is larger than 1024 bytes [-Wframe-larger-than=]
+ }
+ ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c: In function ‘nas_CLASS_cx6’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:420:20: warning: assignment makes pointer from integer without a cast [enabled by default]
+           if ((dst = ((struct iphdr*)(skb_network_header(skb)))->daddr) == 0) {
+                    ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c: In function ‘nas_CLASS_cx4’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:485:14: warning: comparison between pointer and integer [enabled by default]
+     if (daddr!=NULL) {
+              ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c: In function ‘nas_CLASS_send’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:818:8: warning: extra tokens at end of #endif directive [enabled by default]
+ #endif NAS_DEBUG_CLASS
+        ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:620:16: warning: unused variable ‘router_adv’ [-Wunused-variable]
+   unsigned int router_adv = 0;
+                ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:618:16: warning: unused variable ‘i’ [-Wunused-variable]
+   unsigned int i;
+                ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:615:31: warning: unused variable ‘label’ [-Wunused-variable]
+   uint8_t protocol, dscp, exp,label;
+                               ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/classifier.c:615:27: warning: unused variable ‘exp’ [-Wunused-variable]
+   uint8_t protocol, dscp, exp,label;
+                           ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c: In function ‘nas_TOOL_fct’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c:66:12: warning: assignment from incompatible pointer type [enabled by default]
+     gc->fct=nas_CTL_send;
+            ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c:70:12: warning: assignment from incompatible pointer type [enabled by default]
+     gc->fct=nas_mesh_DC_send_sig_data_request;
+            ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c: In function ‘nas_TOOL_invfct’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c:102:14: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+   if (gc->fct==nas_CTL_send)
+              ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c:108:14: warning: comparison of distinct pointer types lacks a cast [enabled by default]
+   if (gc->fct==nas_mesh_DC_send_sig_data_request)
+              ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c: In function ‘print_TOOL_pk_all’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c:690:24: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+     print_TOOL_pk_ipv6((struct ipv6hdr *)skb->network_header);
+                        ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/tool.c:694:24: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+     print_TOOL_pk_ipv4((struct iphdr *)skb->network_header);
+                        ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/mesh.c: In function ‘nas_mesh_timer’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/mesh.c:177:26: warning: assignment from incompatible pointer type [enabled by default]
+   (gpriv->timer).function=nas_mesh_timer;
+                          ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/mesh.c: In function ‘nas_mesh_DC_send_sig_data_request’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/mesh.c:396:8: warning: unused variable ‘data_type’ [-Wunused-variable]
+   char data_type = 'A';
+        ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/mesh.c: In function ‘nas_mesh_DC_send_peer_sig_data_request’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/mesh.c:475:8: warning: unused variable ‘data_type’ [-Wunused-variable]
+   char data_type = 'Z';
+        ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/netlink.c: In function ‘nas_nl_data_ready’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/netlink.c:87:7: warning: unused variable ‘j’ [-Wunused-variable]
+   int j;
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/netlink.c: At top level:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/netlink.c:61:12: warning: ‘nas_netlink_rx_thread’ declared ‘static’ but never defined [-Wunused-function]
+ static int nas_netlink_rx_thread(void *);
+            ^
+Built target nasmesh

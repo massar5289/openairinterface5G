@@ -1,0 +1,384 @@
+Scanning dependencies of target api_usim
+[  1%] Building C object CMakeFiles/api_usim.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USIM/aka_functions.c.o
+Scanning dependencies of target api_network
+[  1%] Building C object CMakeFiles/api_network.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/as_message.c.o
+Scanning dependencies of target esm
+Scanning dependencies of target emm
+[  2%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_main.c.o
+[  3%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/Attach.c.o
+[  3%] Building C object CMakeFiles/api_network.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c.o
+[  3%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/DedicatedEpsBearerContextActivation.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘nas_message_decrypt’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:326:2: warning: #warning "added test on integrity algorithm because of SECURITY_MODE_COMMAND not correctly handled in UE (check integrity)" [-Wcpp]
+ #warning "added test on integrity algorithm because of SECURITY_MODE_COMMAND not correctly handled in UE (check integrity)"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘_nas_message_decrypt’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1019:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1022:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea1’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea1(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:89:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea1(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1053:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1056:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea1’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea1(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:89:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea1(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘_nas_message_encrypt’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1181:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1184:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea1’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea1(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:89:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea1(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1212:32: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+       stream_cipher.message    = src;
+                                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1215:7: warning: pointer targets in passing argument 2 of ‘nas_stream_encrypt_eea2’ differ in signedness [-Wpointer-sign]
+       nas_stream_encrypt_eea2(&stream_cipher, dest);
+       ^
+In file included from /home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:60:0:
+/home/einstein/openairinterface5g/openair-cn/SECU/secu_defs.h:93:5: note: expected ‘uint8_t *’ but argument is of type ‘char *’
+ int nas_stream_encrypt_eea2(nas_stream_cipher_t *stream_cipher, uint8_t *out);
+     ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c: In function ‘_nas_message_get_mac’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1347:30: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+     stream_cipher.message    = buffer;
+                              ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/nas_message.c:1393:30: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+     stream_cipher.message    = buffer;
+                              ^
+[  4%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/DefaultEpsBearerContextActivation.c.o
+[  4%] [  4%] Building C object CMakeFiles/api_usim.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USIM/usim_api.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/Authentication.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USIM/usim_api.c: In function ‘usim_api_authenticate’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USIM/usim_api.c:292:2: warning: #warning "LG:BUG HERE TODO" [-Wcpp]
+ #warning "LG:BUG HERE TODO"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USIM/usim_api.c:294:10: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+         ((uint8_t*)(_usim_api_data.sqn_ms))[USIM_API_SQN_MS_SIZE - i];
+          ^
+[  4%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/EpsBearerContextDeactivation.c.o
+Linking C static library libapi_usim.a
+[  5%] Building C object CMakeFiles/api_network.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/API/NETWORK/network_api.c.o
+[  5%] Built target api_usim
+[  6%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/Detach.c.o
+[  7%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr.c.o
+[  7%] [  8%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/emm_main.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/EmmStatusHdl.c.o
+Linking C static library libapi_network.a
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/EmmStatusHdl.c: In function ‘emm_proc_status’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/EmmStatusHdl.c:133:30: warning: unused variable ‘ctx’ [-Wunused-variable]
+   struct emm_data_context_s *ctx  = NULL;
+                              ^
+[  8%] Built target api_network
+[  8%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/Identification.c.o
+Scanning dependencies of target secu_cn
+[  9%] Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/kdf.c.o
+[  9%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c.o
+[ 10%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/IdleMode.c.o
+[ 10%] Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/rijndael.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c: In function ‘esm_ebr_context_create’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c:220:27: warning: variable ‘res’ set but not used [-Wunused-but-set-variable]
+            int            res;
+                           ^
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c:215:27: warning: variable ‘ipv6_addr’ set but not used [-Wunused-but-set-variable]
+            char           ipv6_addr[INET6_ADDRSTRLEN];
+                           ^
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c:117:23: warning: unused variable ‘ueid’ [-Wunused-variable]
+   unsigned int        ueid    = 0;
+                       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c: In function ‘esm_ebr_context_release’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c:344:16: warning: unused variable ‘ueid’ [-Wunused-variable]
+   unsigned int ueid = 0;
+                ^
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c: In function ‘esm_ebr_context_create’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ebr_context.c:290:20: warning: ignoring return value of ‘system’, declared with attribute warn_unused_result [-Wunused-result]
+              system(command_line);
+                    ^
+[ 11%] Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/snow3g.c.o
+[ 11%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_ip.c.o
+Scanning dependencies of target util
+[ 11%] [ 11%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/device.c.o
+Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/key_nas_deriver.c.o
+[ 12%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/esm_pt.c.o
+[ 13%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/memory.c.o
+[ 14%] Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c.o
+[ 14%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/nas_log.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c:39:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c: In function ‘nas_stream_encrypt_eea1’:
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea1.c:52:13: warning: variable ‘byte_length’ set but not used [-Wunused-but-set-variable]
+   uint32_t  byte_length;
+             ^
+[ 14%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/EsmStatusHdl.c.o
+[ 14%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/LowerLayer.c.o
+[ 14%] [ 15%] /home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/LowerLayer.c: In function ‘lowerlayer_data_req’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/LowerLayer.c:264:30: warning: unused variable ‘ctx’ [-Wunused-variable]
+   struct emm_data_context_s *ctx  = NULL;
+                              ^
+Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/nas_timer.c.o
+Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia1.c.o
+[ 16%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/PdnConnectivity.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia1.c:38:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 17%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SecurityModeControl.c.o
+[ 17%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/OctetString.c.o
+[ 17%] Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea2.c.o
+[ 17%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/PdnDisconnect.c.o
+[ 18%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/parser.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eea2.c:39:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+[ 18%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/ServiceRequestHdl.c.o
+[ 19%] Building C object CMakeFiles/secu_cn.dir/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c.o
+[ 20%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextAccept.c.o
+[ 20%] [ 20%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/TLVDecoder.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/TrackingAreaUpdate.c.o
+In file included from /home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c:46:0:
+/home/einstein/openairinterface5g/openair-cn/UTILS/conversions.h:279:1: warning: "/*" within comment [-Wcomment]
+ /* TS 36.413 v10.9.0 section 9.2.1.38:
+ ^
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c: In function ‘nas_stream_encrypt_eia2’:
+/home/einstein/openairinterface5g/openair-cn/SECU/nas_stream_eia2.c:65:21: warning: variable ‘ret’ set but not used [-Wunused-but-set-variable]
+   int               ret;
+                     ^
+[ 21%] [ 21%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/TLVEncoder.c.o
+[ 22%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextReject.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/emm_msg.c.o
+Linking C static library libsecu_cn.a
+[ 22%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/socket.c.o
+[ 22%] Built target secu_cn
+[ 23%] Building C object CMakeFiles/util.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/UTIL/stty.c.o
+[ 24%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDedicatedEpsBearerContextRequest.c.o
+[ 24%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c.o
+[ 25%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachComplete.c.o
+Linking C static library libutil.a
+[ 25%] Built target util
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c: In function ‘encode_attach_accept’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c:217:2: warning: #warning "LG TEST override t3412value" [-Wcpp]
+ #warning "LG TEST override t3412value"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachAccept.c:291:2: warning: #warning "LG TEST override t3402value" [-Wcpp]
+ #warning "LG TEST override t3402value"
+  ^
+Scanning dependencies of target api_user
+Scanning dependencies of target ies
+[ 25%] [ 25%] Building C object CMakeFiles/api_user.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USER/at_command.c.o
+Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextAccept.c.o
+[ 26%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AccessPointName.c.o
+[ 26%] [ 26%] [ 27%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachReject.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AdditionalUpdateResult.c.o
+Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextReject.c.o
+[ 28%] [ 28%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AdditionalUpdateType.c.o
+Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ActivateDefaultEpsBearerContextRequest.c.o
+[ 29%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AttachRequest.c.o
+[ 29%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ApnAggregateMaximumBitRate.c.o
+[ 30%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceAllocationReject.c.o
+[ 31%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationFailureParameter.c.o
+[ 31%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceAllocationRequest.c.o
+[ 31%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationParameterAutn.c.o
+[ 31%] [ 31%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceModificationReject.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationParameterRand.c.o
+[ 31%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationFailure.c.o
+[ 32%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/AuthenticationResponseParameter.c.o
+[ 33%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/BearerResourceModificationRequest.c.o
+[ 35%] [ 35%] [ 35%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationReject.c.o
+Building C object CMakeFiles/api_user.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USER/at_error.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/CipheringKeySequenceNumber.c.o
+[ 35%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/DeactivateEpsBearerContextAccept.c.o
+[ 35%] [ 35%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationRequest.c.o
+Building C object CMakeFiles/api_user.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USER/at_response.c.o
+[ 36%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/Cli.c.o
+[ 37%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/DeactivateEpsBearerContextRequest.c.o
+[ 38%] [ 38%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/AuthenticationResponse.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/CsfbResponse.c.o
+[ 38%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/EsmInformationRequest.c.o
+[ 38%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/CsServiceNotification.c.o
+[ 39%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/EsmInformationResponse.c.o
+[ 40%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/DaylightSavingTime.c.o
+[ 41%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/DetachAccept.c.o
+[ 41%] [ 41%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/DetachType.c.o
+Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/esm_msg.c.o
+[ 41%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/DetachRequest.c.o
+[ 42%] [ 43%] Building C object CMakeFiles/api_user.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USER/user_api.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/DrxParameter.c.o
+[ 43%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/DownlinkNasTransport.c.o
+[ 44%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/EsmStatus.c.o
+[ 44%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EmergencyNumberList.c.o
+[ 45%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/EmmInformation.c.o
+[ 45%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextAccept.c.o
+[ 46%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EmmCause.c.o
+[ 46%] [ 47%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/EmmStatus.c.o
+Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextReject.c.o
+[ 47%] Building C object CMakeFiles/api_user.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/API/USER/user_indication.c.o
+[ 47%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsAttachResult.c.o
+[ 48%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/ExtendedServiceRequest.c.o
+[ 48%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/ModifyEpsBearerContextRequest.c.o
+Linking C static library libapi_user.a
+[ 48%] Built target api_user
+[ 49%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsAttachType.c.o
+[ 49%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsBearerContextStatus.c.o
+[ 49%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/GutiReallocationCommand.c.o
+[ 49%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnConnectivityReject.c.o
+[ 50%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnConnectivityRequest.c.o
+[ 50%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsBearerIdentity.c.o
+[ 51%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/GutiReallocationComplete.c.o
+[ 52%] [ 52%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsMobileIdentity.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/IdentityRequest.c.o
+[ 52%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnDisconnectReject.c.o
+[ 52%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsNetworkFeatureSupport.c.o
+[ 53%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/IdentityResponse.c.o
+[ 54%] [ 54%] [ 54%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/ESM/MSG/PdnDisconnectRequest.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/SecurityModeCommand.c.o
+Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/SAP/esm_recv.c.o
+[ 55%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsQualityOfService.c.o
+[ 55%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsUpdateResult.c.o
+[ 56%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/SecurityModeComplete.c.o
+[ 56%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/SecurityModeReject.c.o
+[ 57%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EpsUpdateType.c.o
+[ 57%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EsmCause.c.o
+[ 58%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/ServiceReject.c.o
+[ 59%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/SAP/esm_sap.c.o
+[ 59%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/ServiceRequest.c.o
+[ 60%] [ 60%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EsmInformationTransferFlag.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/EsmMessageContainer.c.o
+[ 60%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateAccept.c.o
+[ 60%] Building C object CMakeFiles/esm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/ESM/SAP/esm_send.c.o
+[ 61%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/GprsTimer.c.o
+[ 62%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateComplete.c.o
+[ 62%] Linking C static library libesm.a
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateReject.c.o
+[ 62%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/GutiType.c.o
+[ 62%] Built target esm
+[ 63%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/IdentityType2.c.o
+[ 64%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/TrackingAreaUpdateRequest.c.o
+[ 64%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/EMM/MSG/UplinkNasTransport.c.o
+[ 65%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_as.c.o
+[ 65%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ImeisvRequest.c.o
+[ 65%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/KsiAndSequenceNumber.c.o
+[ 66%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LcsClientIdentity.c.o
+[ 66%] [ 67%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LcsIndicator.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LinkedEpsBearerIdentity.c.o
+[ 67%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LlcServiceAccessPointIdentifier.c.o
+[ 67%] [ 68%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredAttachNeeded.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/LocationAreaIdentification.c.o
+[ 68%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MessageType.c.o
+[ 69%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredAttemptingToAttach.c.o
+[ 69%] [ 70%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregistered.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MobileIdentity.c.o
+[ 70%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MobileStationClassmark2.c.o
+[ 71%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MobileStationClassmark3.c.o
+[ 71%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkCapability.c.o
+[ 72%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredInitiated.c.o
+[ 72%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredLimitedService.c.o
+[ 73%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasKeySetIdentifier.c.o
+[ 74%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredNoCellAvailable.c.o
+[ 74%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredNoImsi.c.o
+[ 74%] [ 74%] [ 75%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredNormalService.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasMessageContainer.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmDeregisteredPlmnSearch.c.o
+[ 75%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_esm.c.o
+[ 75%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasRequestType.c.o
+[ 76%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NasSecurityAlgorithms.c.o
+[ 77%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_fsm.c.o
+[ 77%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmNull.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_fsm.c: In function ‘emm_fsm_initialize’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_fsm.c:218:7: warning: unused variable ‘ueid’ [-Wunused-variable]
+   int ueid;
+       ^
+[ 77%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/NetworkName.c.o
+[ 78%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_recv.c.o
+[ 79%] [ 79%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_reg.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredAttemptingToUpdate.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_reg.c: In function ‘emm_reg_send’:
+/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_reg.c:114:23: warning: unused variable ‘primitive’ [-Wunused-variable]
+   emm_reg_primitive_t primitive = msg->primitive;
+                       ^
+[ 80%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/Nonce.c.o
+[ 80%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegistered.c.o
+[ 80%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PacketFlowIdentifier.c.o
+[ 82%] [ 82%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredImsiDetachInitiated.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PagingIdentity.c.o
+[ 82%] [ 83%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PdnAddress.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PdnType.c.o
+[ 83%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredInitiated.c.o
+[ 84%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredLimitedService.c.o
+[ 84%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredNoCellAvailable.c.o
+[ 84%] [ 84%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PlmnList.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredNormalService.c.o
+[ 85%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredPlmnSearch.c.o
+[ 86%] [ 86%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ProcedureTransactionIdentity.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ProtocolConfigurationOptions.c.o
+[ 86%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmRegisteredUpdateNeeded.c.o
+[ 87%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ProtocolDiscriminator.c.o
+[ 88%] [ 88%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/PTmsiSignature.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_sap.c.o
+[ 88%] [ 89%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/emm_send.c.o
+Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmServiceRequestInitiated.c.o
+[ 89%] Building C object CMakeFiles/emm.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/EMM/SAP/EmmTrackingAreaUpdatingInitiated.c.o
+[ 89%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/QualityOfService.c.o
+[ 90%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/RadioPriority.c.o
+[ 90%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/SecurityHeaderType.c.o
+[ 91%] [ 91%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ServiceType.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/ShortMac.c.o
+[ 92%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/SsCode.c.o
+[ 93%] [ 93%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TimeZoneAndTime.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/SupportedCodecList.c.o
+[ 93%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TimeZone.c.o
+[ 94%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TmsiStatus.c.o
+[ 94%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrackingAreaIdentity.c.o
+[ 95%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrackingAreaIdentityList.c.o
+Linking C static library libemm.a
+[ 95%] Built target emm
+[ 95%] [ 95%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrafficFlowAggregateDescription.c.o
+Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TrafficFlowTemplate.c.o
+[ 96%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/TransactionIdentifier.c.o
+[ 96%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c.o
+[ 97%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeRadioCapabilityInformationUpdateNeeded.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c: In function ‘decode_ue_network_capability’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c:84:2: warning: #warning "Force GPRS present if UMTS present" [-Wcpp]
+ #warning "Force GPRS present if UMTS present"
+  ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c: In function ‘encode_ue_network_capability’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeNetworkCapability.c:134:2: warning: #warning "Force gea to 0x60" [-Wcpp]
+ #warning "Force gea to 0x60"
+  ^
+[ 97%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/UeSecurityCapability.c.o
+[ 98%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/VoiceDomainPreferenceAndUeUsageSetting.c.o
+[ 98%] Building C object CMakeFiles/ies.dir/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c.o
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c: In function ‘encode_ms_network_feature_support’:
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c:59:7: warning: unused variable ‘encode_result’ [-Wunused-variable]
+   int encode_result;
+       ^
+/home/einstein/openairinterface5g/openair-cn/NAS/COMMON/IES/MsNetworkFeatureSupport.c:57:12: warning: unused variable ‘lenPtr’ [-Wunused-variable]
+   uint8_t *lenPtr;
+            ^
+Linking C static library libies.a
+[ 98%] Built target ies
+Scanning dependencies of target at_nas_ue
+[ 99%] [ 99%] [ 99%] [100%] Building C object CMakeFiles/at_nas_ue.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/UEprocess.c.o
+Building C object CMakeFiles/at_nas_ue.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/nas_network.c.o
+Building C object CMakeFiles/at_nas_ue.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/nas_proc.c.o
+Building C object CMakeFiles/at_nas_ue.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/nas_parser.c.o
+[100%] Building C object CMakeFiles/at_nas_ue.dir/home/einstein/openairinterface5g/openair-cn/NAS/UE/nas_user.c.o
+Linking C executable at_nas_ue
+[100%] Built target at_nas_ue

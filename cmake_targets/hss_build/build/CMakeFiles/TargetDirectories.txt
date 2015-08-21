@@ -1,0 +1,7 @@
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/HSSParser.dir
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/hss_access_restriction.dir
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/hss_auc.dir
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/hss_db.dir
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/hss_s6a.dir
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/hss_utils.dir
+/home/einstein/openairinterface5g/cmake_targets/hss_build/build/CMakeFiles/openair-hss.dir

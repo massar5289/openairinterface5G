@@ -1,0 +1,56 @@
+Scanning dependencies of target rb_tool
+Building C object CMakeFiles/rb_tool.dir/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c.o
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c: In function ‘IAL_NAS_ioctl_init’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:138:3: warning: implicit declaration of function ‘ioctl’ [-Wimplicit-function-declaration]
+   err=ioctl(fd, NAS_IOCTL_RRM, &gifr);
+   ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:119:11: warning: variable ‘rc’ set but not used [-Wunused-but-set-variable]
+   int err,rc;
+           ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c: In function ‘main’:
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:224:7: warning: passing argument 2 of ‘inet_aton’ from incompatible pointer type [enabled by default]
+       inet_aton(optarg,&saddr_ipv4);
+       ^
+In file included from /home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:49:0:
+/usr/include/arpa/inet.h:73:12: note: expected ‘struct in_addr *’ but argument is of type ‘in_addr_t *’
+ extern int inet_aton (const char *__cp, struct in_addr *__inp) __THROW;
+            ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:229:7: warning: passing argument 2 of ‘inet_aton’ from incompatible pointer type [enabled by default]
+       inet_aton(optarg,&daddr_ipv4);
+       ^
+In file included from /home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:49:0:
+/usr/include/arpa/inet.h:73:12: note: expected ‘struct in_addr *’ but argument is of type ‘in_addr_t *’
+ extern int inet_aton (const char *__cp, struct in_addr *__inp) __THROW;
+            ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:250:7: warning: implicit declaration of function ‘isprint’ [-Wimplicit-function-declaration]
+       if (isprint (optopt))
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:170:7: warning: unused variable ‘index’ [-Wunused-variable]
+   int index = 0;
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:166:10: warning: unused variable ‘buffer’ [-Wunused-variable]
+   char * buffer;
+          ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:165:7: warning: variable ‘err’ set but not used [-Wunused-but-set-variable]
+   int err = 0;
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:164:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i = 0;
+       ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:163:18: warning: unused variable ‘tv’ [-Wunused-variable]
+   struct timeval tv;
+                  ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:162:10: warning: unused variable ‘readfds’ [-Wunused-variable]
+   fd_set readfds;
+          ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:161:25: warning: unused variable ‘meas_polling_counter’ [-Wunused-variable]
+   int done = 0, rc = 0, meas_polling_counter = 0;
+                         ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:161:17: warning: unused variable ‘rc’ [-Wunused-variable]
+   int done = 0, rc = 0, meas_polling_counter = 0;
+                 ^
+/home/einstein/openairinterface5g/openair2/NETWORK_DRIVER/MESH/RB_TOOL/rb_tool.c:161:7: warning: unused variable ‘done’ [-Wunused-variable]
+   int done = 0, rc = 0, meas_polling_counter = 0;
+       ^
+Linking C executable rb_tool
+Built target rb_tool
